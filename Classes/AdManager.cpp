@@ -3,7 +3,7 @@
 #include "AdManager.h"
 
 #if (CC_TARGET_PLATFORM == CC_PLATFORM_ANDROID)
-//    #include "AdsAdmob.h"
+//    #include "AdsAdmob.h"  //git test
     #include "PluginManager.h"
     using namespace cocos2d::plugin;
 #endif
